@@ -18,7 +18,8 @@ Electric Vehicle
 Robots
 Drones
 Li-ion batteries appliactions
-## 🧰 Project Overview
+
+**Project Overview**
 
 - **Tool Used:** KiCad 9
 - **Target Hardware:** ESP32-WROOM-32,TP-4056 ,AK2112(Load Regulator),INA219(Current and voltage sensing),MicroSD Card, NTC(Negative Temperature Coeficient)
@@ -26,3 +27,11 @@ Li-ion batteries appliactions
   - Battery voltage and current sensing
   - Temperature monitoring with NTC
   - Safe charging using TP4056
+
+**Implementation**
+Step 1: In command prompt, clone the repo
+
+git clone https://github.com/kp348/Smart-Adaptive-BMS-for-Second-Life-Batteries 
+cd Smart-Adaptive-BMS-for-Second-Life-Batteries
+
+Step 2:
